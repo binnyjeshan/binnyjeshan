@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binnyjeshan
+- 👋 Hi
 
 <!---
 binnyjeshan/binnyjeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
